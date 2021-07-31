@@ -1,0 +1,16 @@
+{
+  "name": "bot-dd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "maximus",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment-timezone": "^0.5.33",
+    "request": "^2.88.2"
+  }
+}
